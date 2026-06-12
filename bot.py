@@ -1,4 +1,4 @@
-import discord
+import discord.abc
 from discord.ext import commands
 import os
 
